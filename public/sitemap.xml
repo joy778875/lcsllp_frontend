@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Core Pages -->
+  <url>
+    <loc>https://lcsllp.online/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/about</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/services</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/services/technology-consultancy</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/services/mro-sustenance</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/services/leasing-consultancy</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/services/project-management</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/services/supply-chain-support</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/services/miscellaneous-services</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/team</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/contact</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/visiting-card</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/about-for-ai</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- National Hub & Tier-1 City Landing Pages -->
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-india</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-delhi-ncr</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-mumbai</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-bengaluru</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-hyderabad</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-chennai</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-kolkata</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-pune</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-ahmedabad</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- International Landing Pages with hreflang -->
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-uae</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://lcsllp.online/aviation-consultant-uae"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://lcsllp.online/aviation-consultant-india"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lcsllp.online/"/>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-singapore</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-SG" href="https://lcsllp.online/aviation-consultant-singapore"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://lcsllp.online/aviation-consultant-india"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lcsllp.online/"/>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-united-kingdom</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://lcsllp.online/aviation-consultant-united-kingdom"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://lcsllp.online/aviation-consultant-india"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lcsllp.online/"/>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/aviation-consultant-usa</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://lcsllp.online/aviation-consultant-usa"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://lcsllp.online/aviation-consultant-india"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lcsllp.online/"/>
+  </url>
+
+  <!-- Insights / Editorial Hub -->
+  <url>
+    <loc>https://lcsllp.online/insights</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/insights/aviation-mro-trends-india</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/insights/defence-capital-acquisition-process-india</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/insights/dgca-bcas-regulatory-compliance-basics</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/insights/career-aviation-maintenance-engineering</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lcsllp.online/insights/how-to-choose-aviation-consultant</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

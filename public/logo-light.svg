@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 90" width="100%" height="100%">
+  <defs>
+    <linearGradient id="logoLabGradL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14263A" />
+      <stop offset="35%" stop-color="#1E4D5C" />
+      <stop offset="70%" stop-color="#2B8C96" />
+      <stop offset="100%" stop-color="#C58A45" />
+    </linearGradient>
+    <linearGradient id="logoLabGrad2L" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#205B68" />
+      <stop offset="50%" stop-color="#607C83" />
+      <stop offset="100%" stop-color="#102A38" />
+    </linearGradient>
+    <linearGradient id="logoGoldL" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C58A45" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#607C83" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+
+  <!-- Logo Mark Container -->
+  <g transform="translate(10, 10)">
+    <!-- Shield / Gem Base -->
+    <rect width="70" height="70" rx="14" fill="#14263A" stroke="#2B4360" stroke-width="1.5" />
+    
+    <!-- Geometric Marquise Mineral Form -->
+    <g transform="translate(35, 35) rotate(-35) translate(-35, -35)">
+      <path d="M 35 10 C 52 24 52 46 35 60 C 18 46 18 24 35 10 Z" fill="url(#logoLabGradL)" stroke="#3A6B78" stroke-width="0.75" />
+      <path d="M 35 10 L 35 60" stroke="#FFFFFF" stroke-opacity="0.3" stroke-width="0.75" />
+      <path d="M 35 10 C 46 24 46 46 35 60" fill="none" stroke="url(#logoLabGrad2L)" stroke-width="1" />
+      <path d="M 24 24 L 46 35 L 35 46 L 24 35 Z" fill="url(#logoGoldL)" stroke="#C58A45" stroke-opacity="0.6" stroke-width="0.5" />
+    </g>
+    
+    <!-- L Monogram -->
+    <path d="M 22 22 L 22 50 L 48 50" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 22 50 L 32 40" fill="none" stroke="#C58A45" stroke-width="2" stroke-linecap="round" />
+  </g>
+
+  <!-- Text Wordmark -->
+  <g transform="translate(95, 25)">
+    <!-- Primary LABRADORITE -->
+    <text x="0" y="26" font-family="'Playfair Display', Georgia, serif" font-weight="700" font-size="25" letter-spacing="3.5" fill="#FFFFFF">LABRADORITE</text>
+    
+    <!-- Subtitle CONSULTANCY & SERVICES LLP -->
+    <text x="1.5" y="44" font-family="'Lato', sans-serif" font-weight="700" font-size="9.5" letter-spacing="2.8" fill="#94A3B8">CONSULTANCY &amp; SERVICES LLP</text>
+
+    <!-- Tagline line -->
+    <line x1="1.5" y1="52" x2="330" y2="52" stroke="#2B4360" stroke-width="1" />
+    <text x="1.5" y="62" font-family="'Lato', sans-serif" font-weight="400" font-size="8.5" letter-spacing="1.5" fill="#80A1A8">DEFENCE ACQUISITION &amp; TECHNOLOGY CONSULTANCY</text>
+  </g>
+</svg>
