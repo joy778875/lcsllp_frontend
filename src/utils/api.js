@@ -1,7 +1,9 @@
-const BASE_URL = import.meta.env.VITE_API_URL || '/api';
+const rawBase = import.meta.env.VITE_API_URL || '/api';
+const BASE_URL = rawBase.replace(/\/+$/, '');
 
 export const fetchAPI = async (endpoint, options = {}) => {
   const token = localStorage.getItem('adminToken');
+  const path = endpoint.startsWith('/') ? endpoint : `/${endpoint}`;
 
   const headers = {
     'Content-Type': 'application/json',
@@ -16,7 +18,7 @@ export const fetchAPI = async (endpoint, options = {}) => {
 
   let response;
   try {
-    response = await fetch(`${BASE_URL}${endpoint}`, config);
+    response = await fetch(`${BASE_URL}${path}`, config);
   } catch (netErr) {
     throw new Error('Unable to connect to backend server. Please ensure backend is running.');
   }
